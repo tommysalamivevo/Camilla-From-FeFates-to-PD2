@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<dynamic_object>
+	<diesel materials="units/Fire Emblem/armor_skins/Camilla/Camilla_fps" orientation_object="root_point" />
+
+	<graphics>
+		<graphic_group name="character" enabled="true" culling_object="co_box">
+
+			<object name="g_body" enabled="true"/>	
+
+		</graphic_group>
+	</graphics>
+
+</dynamic_object>
